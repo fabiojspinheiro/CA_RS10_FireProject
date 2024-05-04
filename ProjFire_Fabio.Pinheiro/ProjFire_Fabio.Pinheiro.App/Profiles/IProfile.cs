@@ -1,0 +1,4 @@
+﻿interface IProfile
+{
+    //bool menu();
+}

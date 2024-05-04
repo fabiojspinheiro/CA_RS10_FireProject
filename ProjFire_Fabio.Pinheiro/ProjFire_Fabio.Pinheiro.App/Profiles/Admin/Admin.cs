@@ -1,0 +1,4 @@
+﻿class Admin : Person, IProfile
+{
+
+}

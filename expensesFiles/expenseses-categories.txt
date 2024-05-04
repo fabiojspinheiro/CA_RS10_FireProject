@@ -1,0 +1,68 @@
+Main categories
+------------------
+Home
+	Condo Expenses
+	Electricity/Gas
+	TV/Internet
+	Home-Others
+Mobility
+	Public transportation
+	Parking
+	Gas & Fuel
+	Mobility-Others
+Family
+	Children Education
+	Children-Toys
+	Babysitting
+	Pets
+	Family-Others	
+Health
+	Parmacy
+	Doctors/Healthcare
+	Opticians
+	Dentist
+	Health-Others
+Sports
+	Gym
+	Acessories
+	Sports-Others
+Taxes
+	Fines
+	Tax Paid
+	Municipal Tax
+	Taxes-Others
+My Expenses
+	Gifts
+	Personal Care
+	Software/App
+	My Expenses-Others
+Culture & Hobbies
+	Movies/Theatres
+	Gaming
+	Cultural Activities
+	Culture & Hobbies-Others
+Restaurants & Cafe
+	Restaurants
+	Home Food Delivery
+	Bakery
+Education
+	Tuition
+	Courses
+	School Materials
+Travel
+	Airline Travel
+	Car Rental
+	Travel Agency
+Unrecognized
+
+Supermakets & Shops
+	Supermakets
+	Shoes
+	Clothing
+Insurance
+	Home Insurance
+	Auto Insurance
+	Heath Insurance
+	Pet Insurance
+Entertainments	
+	
